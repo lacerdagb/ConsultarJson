@@ -1,0 +1,10 @@
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\bin\Debug\ConsultarJson.exe.config
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\bin\Debug\ConsultarJson.exe
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\bin\Debug\ConsultarJson.pdb
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\obj\Debug\ConsultarJson.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\obj\Debug\ConsultarJson.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\obj\Debug\Consulta.56A816CB.Up2Date
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\obj\Debug\ConsultarJson.exe
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\ConsultarJson\obj\Debug\ConsultarJson.pdb
